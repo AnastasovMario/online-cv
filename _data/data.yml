@@ -90,15 +90,25 @@ skills:
 
     toolset:
       - name: C#, ASP.NET Framework, RESTful APIs
+        level: 95%
 
       - name: Javascript, Typescript & jQuery
+        level: 90%
 
       - name: Agile Development
+        level: 100%
 
       - name: HTML5 & CSS
+        level: 80%
 
       - name: ORM - MSSQL, PostgreSQL, MySQL
+        level: 89%
 
       - name: Git and BitBucket
-      
-      - name: Software Testing - NUnit, MOQ
+        level: 100%
+
+      - name: Software Testing - Moq, NUnit
+        level: 90%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
