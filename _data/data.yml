@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -43,7 +43,7 @@ career-profile:
       Driven and results-oriented Junior Software Developer with a track record of excellence in C# development. 
       Graduated from SoftUni's C# path with outstanding results, showcasing a strong foundation in software engineering principles and best practices.
       Committed to delivering innovative solutions and continuously expanding technical expertise.
-      
+
 experiences:
     title: Experiences
     info:
