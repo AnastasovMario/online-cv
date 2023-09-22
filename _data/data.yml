@@ -43,26 +43,7 @@ career-profile:
       Driven and results-oriented Junior Software Developer with a track record of excellence in C# development. 
       Graduated from SoftUni's C# path with outstanding results, showcasing a strong foundation in software engineering principles and best practices.
       Committed to delivering innovative solutions and continuously expanding technical expertise.
-education:
-    title: Education
-    info:
-      - degree: C# professional certification
-        university: Software Universtity
-        time: 2021 - 2022
-        details: |
-          - Studied .NET Framework extensively, solved programming problems and developed Web Applications and RESTful APIs using Javascript
-          - Used popular version of control systems such as GitHub and BitBucket to keep code andmanage changes
-          - Developed a SPA application using JavaScript only
-          - Learned and mastered Design Patterns and SOLID principles in order to write clean code and follow best practices
-          - Learned SQL for Database Management using Management Studio and PostgreSQL
-      - degree: BSc in Chemistry
-        university: Carddif University
-        time: 2017 - 2020
-        details: |
-          My Chemistry degree covered core principles including chemical bonding, thermodynamics, kinetics, and spectroscopy.
-          I gained hands-on lab experience, developed analytical skills, and focused on safety protocols.
-          My education provides a strong foundation for practical problem-solving in professional contexts.
-
+      
 experiences:
     title: Experiences
     info:
@@ -84,6 +65,28 @@ experiences:
           - Getting introduced to the system and how  to implement features correctly
           - Testing and debugging code before being deployed to production
           - Stuyding ASP.NET Framework and TypeScript in Depth.
+
+education:
+    title: Education
+    info:
+      - degree: C# professional certification
+        university: Software Universtity
+        time: 2021 - 2022
+        details: |
+          - Studied .NET Framework extensively, solved programming problems and developed Web Applications and RESTful APIs using Javascript
+          - Used popular version of control systems such as GitHub and BitBucket to keep code andmanage changes
+          - Developed a SPA application using JavaScript only
+          - Learned and mastered Design Patterns and SOLID principles in order to write clean code and follow best practices
+          - Learned SQL for Database Management using Management Studio and PostgreSQL
+      - degree: BSc in Chemistry
+        university: Carddif University
+        time: 2017 - 2020
+        details: |
+          My Chemistry degree covered core principles including chemical bonding, thermodynamics, kinetics, and spectroscopy.
+          I gained hands-on lab experience, developed analytical skills, and focused on safety protocols.
+          My education provides a strong foundation for practical problem-solving in professional contexts.
+
+
 
 skills:
     title: Skills &amp; Proficiency
